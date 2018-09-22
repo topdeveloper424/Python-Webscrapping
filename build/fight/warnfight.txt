@@ -1,0 +1,31 @@
+missing module named resource - imported by posix, E:\python work\fight\fight.py
+missing module named posix - imported by os, E:\python work\fight\fight.py
+missing module named _posixsubprocess - imported by subprocess, E:\python work\fight\fight.py
+missing module named org - imported by pickle, E:\python work\fight\fight.py
+missing module named readline - imported by cmd, code, pdb, E:\python work\fight\fight.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\python work\fight\fight.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\python work\fight\fight.py
+missing module named _winreg - imported by platform, selenium.webdriver.firefox.firefox_binary, E:\python work\fight\fight.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, E:\python work\fight\fight.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, E:\python work\fight\fight.py
+missing module named vms_lib - imported by platform, E:\python work\fight\fight.py
+missing module named termios - imported by tty, getpass, E:\python work\fight\fight.py
+missing module named grp - imported by shutil, tarfile, E:\python work\fight\fight.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, E:\python work\fight\fight.py
+missing module named _dummy_threading - imported by dummy_threading, E:\python work\fight\fight.py
+missing module named 'org.python' - imported by copy, xml.sax, E:\python work\fight\fight.py
+missing module named urllib2 - imported by selenium.webdriver.common.utils, selenium.webdriver.common.service
+missing module named urlparse - imported by selenium.webdriver.remote.remote_connection
+runtime module named urllib3.packages.six.moves - imported by http.client, urllib3.connectionpool, urllib3.util.response, 'urllib3.packages.six.moves.urllib', urllib3.response
+missing module named StringIO - imported by xlsxwriter.compatibility, selenium.webdriver.remote.webelement, urllib3.packages.six
+missing module named 'backports.ssl_match_hostname' - imported by urllib3.packages.ssl_match_hostname
+missing module named _abcoll - imported by urllib3.packages.ordered_dict
+missing module named dummy_thread - imported by urllib3.packages.ordered_dict
+missing module named thread - imported by urllib3.packages.ordered_dict
+missing module named "'urllib3.packages.six.moves.urllib'.parse" - imported by urllib3.request, urllib3.poolmanager
+missing module named Queue - imported by urllib3.connectionpool
+missing module named httplib - imported by selenium.webdriver.safari.webdriver, selenium.webdriver.blackberry.webdriver, selenium.webdriver.webkitgtk.webdriver
+missing module named cStringIO - imported by cPickle, selenium.webdriver.firefox.firefox_profile
+missing module named copy_reg - imported by cPickle, cStringIO
+missing module named cPickle - imported by xlsxwriter.compat_collections
